@@ -68,7 +68,7 @@ const Header = () => {
             {option1}{option2}
           </ul>
         </div>
-        <p className="text-3xl font-bold my-auto mt-1">miro</p>
+        <p className="text-3xl font-bold my-auto mt-1 lg:ms-3">miro</p>
         <div className="navbar-center hidden  lg:flex">
           <ul className="menu menu-horizontal px-1 my-auto">{option1}</ul>
         </div>
