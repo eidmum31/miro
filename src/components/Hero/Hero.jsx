@@ -5,7 +5,7 @@ const Hero = () => {
   return (
     <div className="hero mt-5">
       <div className="hero-content flex-col lg:flex-row-reverse">
-        <img src={hero} className="w-full lg:w-1/2 rounded-lg shadow-2xl" />
+        <img src={hero} className="w-full lg:w-1/2 rounded-lg" />
         <div className="lg:me-5 text-center lg:text-left mt-5 ms-3 ">
           <h1 className="text-5xl font-bold">Take ideas from better to best</h1>
           <p className="py-6 mt-2">

@@ -6,7 +6,7 @@ const Hero2 = () => {
   return (
     <div className="hero mt-16 mb-16">
       <div className="hero-content flex-col lg:flex-row-reverse">
-        <img src={hero} className="w-full lg:w-1/2 rounded-lg shadow-2xl" />
+        <img src={hero} className="w-full lg:w-1/2 rounded-lg " />
         <div className="text-center lg:text-left w-full lg:w-1/2 mt-5 ms-3">
           <h1 className="text-5xl font-bold">
             Work together, wherever you work
