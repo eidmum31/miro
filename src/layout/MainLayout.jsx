@@ -6,6 +6,7 @@ import Features from '../components/Features/Features';
 import Hero2 from '../components/Hero2/Hero2';
 import Hero3 from '../components/Hero3/Hero3';
 import Hero4 from '../components/Hero4/Hero4';
+import UseCases from '../components/UseCases/UseCases';
 
 const MainLayout = () => {
     return (
@@ -24,6 +25,7 @@ const MainLayout = () => {
             <hr></hr>
             <Hero4></Hero4>
             <hr></hr>
+            <UseCases></UseCases>
         </div>
     );
 };
