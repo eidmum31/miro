@@ -4,7 +4,7 @@ import { FaArrowRight } from "react-icons/fa";
 const Features = () => {
   return (
     <div className="mt-16 mb-16">
-      <h1 className="w-1/3 mx-auto  text-5xl text-center font-bold ">
+      <h1 className="lg:w-1/3 lg:mx-auto mx-14   text-5xl text-left lg:text-center font-bold ">
         Collaborate without constraints
       </h1>
       <div className="lg:flex mt-10 mx-14">
